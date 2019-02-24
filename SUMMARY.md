@@ -7,6 +7,7 @@
 * [Emergency Procedures](documentation/dao-emergency-procedure.md)
 * [Defense Protocol](documentation/dao-defense-protocol.md)
 * [ATF Signaling Policy](documentation/flagging-and-certifying-mvp.md)
+* [Kanban board](documentation/kanban-board.md)
 
 ## Passed Proposals
 
