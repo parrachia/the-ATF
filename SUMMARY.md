@@ -36,6 +36,7 @@
 * [Preparing for Beta: Re-galvanizing](related/preparing-for-beta-re-galvanizing.md)
 * [Proposals Lifecycle & Life Dramas](related/proposals-lifecycle-and-life-dramas.md)
 * [DAO to DAO Reputation Sharing](related/dao-to-dao-reputation-sharing.md)
+* [Pollinators Weekly Calls Notes](related/pollinators-weekly-calls-notes.md)
 
 ## Templates
 
