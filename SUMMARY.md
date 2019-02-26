@@ -8,6 +8,8 @@
 * [Defense Protocol](documentation/dao-defense-protocol.md)
 * [ATF Signaling Policy](documentation/flagging-and-certifying-mvp.md)
 * [Kanban board](documentation/kanban-board.md)
+* [Proposals Tracking](documentation/proposals-tracking.md)
+* [Proposals Signaling](documentation/proposals-signaling.md)
 
 ## Passed Proposals
 
