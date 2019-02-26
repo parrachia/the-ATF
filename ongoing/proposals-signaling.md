@@ -8,7 +8,7 @@ description: 'Flagged and Certified Proposals, updated weekly'
 
 **Based on:**
 
-{% page-ref page="documentation/flagging-and-certifying-mvp.md" %}
+{% page-ref page="../documentation/flagging-and-certifying-mvp.md" %}
 
 
 

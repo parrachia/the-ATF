@@ -1,9 +1,12 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Proposals Tracking](proposals-tracking.md)
-* [Proposals Signaling](proposals-signaling.md)
-* [Kanban board](kanban-board.md)
+
+## Ongoing
+
+* [Proposals Tracking](ongoing/proposals-tracking.md)
+* [Proposals Signaling](ongoing/proposals-signaling.md)
+* [Kanban board](ongoing/kanban-board.md)
 
 ## Documentation
 
@@ -40,6 +43,7 @@
 * [Proposals Lifecycle & Life Dramas](related/proposals-lifecycle-and-life-dramas.md)
 * [DAO to DAO Reputation Sharing](related/dao-to-dao-reputation-sharing.md)
 * [Pollinators Weekly Calls Notes](related/pollinators-weekly-calls-notes.md)
+* [GenDAO Resources List](related/gendao-resources-list.md)
 
 ## Templates
 
