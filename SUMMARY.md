@@ -1,15 +1,15 @@
 # Table of contents
 
 * [Intro](README.md)
+* [Proposals Tracking](proposals-tracking.md)
+* [Proposals Signaling](proposals-signaling.md)
+* [Kanban board](kanban-board.md)
 
 ## Documentation
 
 * [Emergency Procedures](documentation/dao-emergency-procedure.md)
 * [Defense Protocol](documentation/dao-defense-protocol.md)
 * [ATF Signaling Policy](documentation/flagging-and-certifying-mvp.md)
-* [Kanban board](documentation/kanban-board.md)
-* [Proposals Tracking](documentation/proposals-tracking.md)
-* [Proposals Signaling](documentation/proposals-signaling.md)
 
 ## Passed Proposals
 
@@ -19,8 +19,9 @@
   * [2 months extension](passed-proposals/atf/2-months-extension.md)
   * [1st Proposal](passed-proposals/atf/1st-proposal.md)
 * [Signalling](passed-proposals/signalling/README.md)
-  * [Hourglass](passed-proposals/signalling/hourglass.md)
+  * [Hourglass principle](passed-proposals/signalling/hourglass.md)
   * [Flagging and certifying MVP](passed-proposals/signalling/flagging-and-certifying-mvp-1.md)
+  * [1st Hourglass Proposal](passed-proposals/signalling/1st-hourglass-proposal.md)
 
 ## Statements
 

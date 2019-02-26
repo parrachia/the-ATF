@@ -1,4 +1,4 @@
-# Hourglass
+# Hourglass principle
 
 
 
