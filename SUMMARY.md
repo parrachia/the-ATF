@@ -49,4 +49,5 @@
 
 * [Workshop](templates/workshop.md)
 * [Recurring Proposal](templates/recurring-proposal.md)
+* [Templates meeting 27/2 notes](templates/templates-meeting-27-2-notes.md)
 
