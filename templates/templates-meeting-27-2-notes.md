@@ -1,3 +1,7 @@
+---
+description: 'Present: Pedro & Stratis'
+---
+
 # Templates meeting 27/2 notes
 
 1 - We'd like to use gitbook + github for documenting, but we'll stick with gDocs for the time being.
@@ -16,7 +20,8 @@ Financial Proposal
 
 3 - References  
 - [Late stage Onboarding - the Cookbook](https://docs.google.com/presentation/d/1r6wHBo8-MXb8m8ef-ZACaP4_mf9tiuj0xfEAFEnKlbI/edit?usp=sharing)  
-- [Trello board with tasks \(from kate\)](https://trello.com/b/pirBAjCN/gendao-tasks)
+- [Trello board with tasks \(from kate\)](https://trello.com/b/pirBAjCN/gendao-tasks)  
+- [DASH](https://app.dashnexus.org/proposals/leaderboard)
 
 6 - How should we structure the templates themselves?  
 -  Specific Templates x Generalist Template/Guideline ?
