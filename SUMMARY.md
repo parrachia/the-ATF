@@ -22,7 +22,7 @@
   * [February](passed-proposals/atf/february.md)
   * [The ATF v2.1](passed-proposals/atf/the-atf-v2.1.md)
   * [2 months extension](passed-proposals/atf/2-months-extension.md)
-  * [1st Proposal - Experimenting with the Accountability Network](passed-proposals/atf/1st-proposal.md)
+  * [1st Proposal - Experimenting with the Accountability Task Force](passed-proposals/atf/1st-proposal.md)
 * [Signalling](passed-proposals/signalling/README.md)
   * [Hourglass principle](passed-proposals/signalling/hourglass.md)
   * [Flagging and certifying MVP](passed-proposals/signalling/flagging-and-certifying-mvp-1.md)
