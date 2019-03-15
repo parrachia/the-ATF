@@ -22,7 +22,7 @@ We believe that git based solutions are an important step to more accessible, de
 
 ## What will you find here
 
-Here you can find what is currently going on both [the ATF](ongoing/proposals-tracking.md#kanban-board) and [the GenDAO](ongoing/gendao-resources-list.md). An archive with all documentation, proposals and reports can also be accessed here. Additionally, some [related content](ongoing/related.md) and proposal [templates](ongoing/templates.md) are included as well.
+Here you can find what is currently going on both [the ATF](ongoing/proposals-tracking.md#kanban-board) and [the GenDAO](ongoing/gendao-resources-list.md). An archive with all documentation, proposals and reports can also be accessed here. Additionally, some [related content](ongoing/related.md) and proposal [templates](ongoing/templates/) are included as well.
 
 
 

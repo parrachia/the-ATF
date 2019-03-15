@@ -7,7 +7,8 @@
 
 * [ATF Resources List](ongoing/proposals-tracking.md)
 * [GenDAO Resources List](ongoing/gendao-resources-list.md)
-* [Templates](ongoing/templates.md)
+* [Templates](ongoing/templates/README.md)
+  * [Templates meeting 27/2 notes](ongoing/templates/templates-meeting-27-2-notes.md)
 * [Related](ongoing/related.md)
 
 ## Documentation
@@ -36,6 +37,5 @@
   * [Genesis Alpha Proposal Report \#2 - December](reports/monthly-reports/genesis-alpha-proposal-report-2-december.md)
   * [Genesis Alpha Proposal Report \#1](reports/monthly-reports/genesis-alpha-proposal-report-1.md)
 * [Alerts](reports/alerts.md)
-* [More](reports/more/README.md)
-  * [Templates meeting 27/2 notes](reports/more/templates-meeting-27-2-notes.md)
+* [More](reports/more.md)
 
