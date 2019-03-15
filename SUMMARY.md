@@ -34,20 +34,20 @@
   * [Genesis Alpha Proposal Report \#1](reports/monthly-reports/genesis-alpha-proposal-report-1.md)
 * [Alerts](reports/alerts/README.md)
   * [Alert Report 1 - 23rd October 2018](reports/alerts/alert-report-1-23rd-october-2018.md)
-* [Coordinated response  to the comments against the 1st ATF renewal proposal](reports/coordinated-response-to-the-comments-against-the-1st-atf-renewal-proposal.md)
-* [Notes 1st Meeting - 8th October 2018](reports/notes-1st-meeting-8th-october-2018.md)
+* [More](reports/more/README.md)
+  * [Templates meeting 27/2 notes](reports/more/templates-meeting-27-2-notes.md)
+  * [Coordinated response  to the comments against the 1st ATF renewal proposal](reports/more/coordinated-response-to-the-comments-against-the-1st-atf-renewal-proposal.md)
+  * [Notes 1st Meeting - 8th October 2018](reports/more/notes-1st-meeting-8th-october-2018.md)
 
-## Related
+## Resources
 
-* [Preparing for Beta: Re-galvanizing](related/preparing-for-beta-re-galvanizing.md)
-* [Proposals Lifecycle & Life Dramas](related/proposals-lifecycle-and-life-dramas.md)
-* [DAO to DAO Reputation Sharing](related/dao-to-dao-reputation-sharing.md)
-* [Pollinators Weekly Calls Notes](related/pollinators-weekly-calls-notes.md)
-* [GenDAO Resources List](related/gendao-resources-list.md)
-
-## Templates
-
-* [Workshop](templates/workshop.md)
-* [Recurring Proposal](templates/recurring-proposal.md)
-* [Templates meeting 27/2 notes](templates/templates-meeting-27-2-notes.md)
+* [GenDAO Resources List](resources/gendao-resources-list.md)
+* [Related](resources/related/README.md)
+  * [Preparing for Beta: Re-galvanizing](resources/related/preparing-for-beta-re-galvanizing.md)
+  * [Proposals Lifecycle & Life Dramas](resources/related/proposals-lifecycle-and-life-dramas.md)
+  * [DAO to DAO Reputation Sharing](resources/related/dao-to-dao-reputation-sharing.md)
+  * [Pollinators Weekly Calls Notes](resources/related/pollinators-weekly-calls-notes.md)
+* [Templates](resources/templates/README.md)
+  * [Workshop](resources/templates/workshop.md)
+  * [Recurring Proposal](resources/templates/recurring-proposal.md)
 

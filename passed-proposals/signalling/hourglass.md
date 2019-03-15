@@ -32,12 +32,14 @@
         <p>Execution of proposals should have similar attention.</p>
         <p>ATF officers to be in charge of arranging attention funnel for proposals`
           execution.</p>
-        <p>Namely, ATF officers should be empowered to “turn over hourglass” in accordance
-          with timelines set in every particular proposal, by that we mean:</p>
+        <p>Namely, ATF officers should be empowered to &#x201C;turn over hourglass&#x201D;
+          in accordance with timelines set in every particular proposal, by that
+          we mean:</p>
         <p>to draw attention to proposals` deliverables and then to submit their
-          own “Hourglass proposal” to continue or cancel or amend an ongoing proposal.</p>
-        <p>The decision on “Hourglass” proposal goes to reputation holders and has
-          to be made by voting on Alchemy.
+          own &#x201C;Hourglass proposal&#x201D; to continue or cancel or amend an
+          ongoing proposal.</p>
+        <p>The decision on &#x201C;Hourglass&#x201D; proposal goes to reputation
+          holders and has to be made by voting on Alchemy.
           <br />
         </p>
       </td>
@@ -82,7 +84,7 @@
     <tr>
       <td style="text-align:left">Metrics for success:</td>
       <td style="text-align:left">Description of the project:</td>
-      <td style="text-align:left">Report on project’s progress:</td>
+      <td style="text-align:left">Report on project&#x2019;s progress:</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -113,11 +115,13 @@
           expiry dates of proposals;
           <br />
         </p>
-        <p>(4) articulate “Hourglass proposals” to suggest whether to continue or
-          cancel or amend any of ongoing proposals, to ask a refund;
-          <br />
+        <p>(4) articulate &#x201C;Hourglass proposals&#x201D; to suggest whether
+          to continue or cancel or amend any of ongoing proposals, to ask a refund;
+          <br
+          />
         </p>
-        <p>(5) submit and boost “Hourglass proposals” for voting on Alchemy.</p>
+        <p>(5) submit and boost &#x201C;Hourglass proposals&#x201D; for voting on
+          Alchemy.</p>
       </td>
       <td style="text-align:left">
         <ul>

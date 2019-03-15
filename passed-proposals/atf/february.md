@@ -40,7 +40,7 @@ This proposals is for a one month retainer for the ATFs recurring and reactive â
           <li>Proposal tracking: Weekly updated <a href="https://docs.google.com/spreadsheets/d/1FV8iz4ebZb4E3nXckzPsWy7IfhtsX3filkbX_gbPLNs/edit#gid=1504108070">log of passed proposals</a> with
             updates on progress and completion</li>
           <li>Proposal signaling <a href="https://docs.google.com/document/d/11OBW8xY9a_h1s4Ktd-RDA6jPrRfdGim2JaAaqq1n3WY/edit?usp=sharing">(certifying and flagging</a>):
-            interact with & assist proposers, <a href="https://coggle.it/diagram/W_tvNznK8lHzVIy-/t/the-atf-logs/243e45b6e0b87a8587555dd2965d20052c4051b9dc7f04b1c9946f2ac01093d4">update signaling map</a>,
+            interact with &amp; assist proposers, <a href="https://coggle.it/diagram/W_tvNznK8lHzVIy-/t/the-atf-logs/243e45b6e0b87a8587555dd2965d20052c4051b9dc7f04b1c9946f2ac01093d4">update signaling map</a>,
             create <a href="https://docs.google.com/document/d/1L2fqSjGy806pxcZ5EkmH5EspJVpsCUiOq1Od27Qea8g/edit">hourglass proposals</a>
           </li>
           <li>Monthly summary report of Genesis Proposals, <a href="https://daotalk.org/t/genesis-alpha-proposals-reports/321/3">see here<br /><br /></a>
@@ -64,7 +64,7 @@ This proposals is for a one month retainer for the ATFs recurring and reactive â
         <p>Detects and defends social attacks on the DAO.</p>
         <ol>
           <li>Regular monitoring of the DAO for unusual behavior with flagging for the
-            pollinatorâ€™s attention and action in case of highly suspicious activity</li>
+            pollinator&#x2019;s attention and action in case of highly suspicious activity</li>
           <li>Report relevant episodes (attacks, simulations, other signallings)
             <br
             />
