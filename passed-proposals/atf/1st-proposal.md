@@ -4,9 +4,9 @@ description: >-
   make Genesis more responsible and resilient."
 ---
 
-# 1st Proposal
+# 1st Proposal - Experimenting with the Accountability Network
 
-[https://docs.google.com/document/d/1U2-FE0bt9p1Cn2H\_-fYxB7oybcDH7WlHhcMj0b20sgI/edit?usp=sharing](https://docs.google.com/document/d/1U2-FE0bt9p1Cn2H_-fYxB7oybcDH7WlHhcMj0b20sgI/edit?usp=sharing)
+[https://docs.google.com/document/d/1U2-FE0bt9p1Cn2H\_-fYxB7oybcDH7WlHhcMj0b20sgI/edit?usp=sharing](https://docs.google.com/document/d/1U2-FE0bt9p1Cn2H_-fYxB7oybcDH7WlHhcMj0b20sgI/edit?usp=sharing)[​source](https://docs.google.com/document/d/1U2-FE0bt9p1Cn2H_-fYxB7oybcDH7WlHhcMj0b20sgI/edit?usp=sharing)
 
 **Short Pitch:** Create the first positions in an off-chain self-regulatory group designed to make Genesis more responsible and resilient.
 

@@ -6,7 +6,7 @@ description: >-
 
 # February
 
-[https://docs.google.com/document/d/137xTG\_4y3-dsy1sI6hzYd9UFiW6cf3bHylz5KKQiDfA/edit?usp=sharing](https://docs.google.com/document/d/137xTG_4y3-dsy1sI6hzYd9UFiW6cf3bHylz5KKQiDfA/edit?usp=sharing)
+[source](https://docs.google.com/document/d/137xTG_4y3-dsy1sI6hzYd9UFiW6cf3bHylz5KKQiDfA/edit?usp=sharing​source)
 
 | Recurring Proposal by |  The ATF \(Pedro, Francesca, Daniel, Dmitry\) |
 | :--- | :--- |
@@ -123,28 +123,5 @@ TOTAL in ETH: 21 ETH
 Reputation requested: 0
 
 \(Anyone may submit a proposal later to reward the ATF officers with reputation for their work.\)  
-  
-  
-  
 
-
-Pedro: 720 + 120 = 840
-
-Daniel: 480 + 120 = 600
-
-Fran: 240 + 180 + 120 = 540
-
-Dmitry: 120  
-
-
-21 ETH  
-  
-
-
-| Pedro | 40 | 8.4 |
-| :--- | :--- | :--- |
-| Daniel | 28.57142857 | 5.9997 |
-| Fran | 25.71428571 | 5.3991 |
-| Dmitry | 5.714285714 | 1.199982 |
-|  | 100 | 20.998782 |
 

@@ -12,15 +12,17 @@ The Accountability Task-Force is a recurring experiment around the Genesis Alpha
 
 ### Our goals
 
+* Keep proposal execution accountable and unofficially signal proposals
+* Detect and defend against social attacks on the DAO
+* Exchange information with the community while keeping its own work accountable and transparent 
+
 ### About Gitbook
+
+We believe that git based solutions are an important step to more accessible, decentralized and open source solutions and knowledge production. Gitbook offers an elegant visualization of markdown documents that can freely receive contributions on Github as well.
 
 ## What will you find here
 
-Here you can find what is currently going on both [the ATF](ongoing/kanban-board.md) and [the GenDAO](ongoing/proposals-tracking.md). An archive with all documentation, proposals and reports can also be accessed here. Additionally, related content and proposals templates are included as well.
-
-### Hot links
-
-{% page-ref page="ongoing/kanban-board.md" %}
+Here you can find what is currently going on both [the ATF](ongoing/proposals-tracking.md#kanban-board) and [the GenDAO](ongoing/gendao-resources-list.md). An archive with all documentation, proposals and reports can also be accessed here. Additionally, some [related content](ongoing/related.md) and proposal [templates](ongoing/templates.md) are included as well.
 
 
 
