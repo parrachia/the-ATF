@@ -3,11 +3,14 @@
 * [Intro](README.md)
 * [Team](team.md)
 
-## Ongoing
+## Resources
 
 * [Proposals Tracking](ongoing/proposals-tracking.md)
 * [Proposals Signaling](ongoing/proposals-signaling.md)
 * [Kanban board](ongoing/kanban-board.md)
+* [GenDAO Resources List](ongoing/gendao-resources-list.md)
+* [Templates](ongoing/templates.md)
+* [Related](ongoing/related.md)
 
 ## Documentation
 
@@ -34,16 +37,7 @@
   * [Genesis DAO Proposal Report \#3 - January 2019](reports/monthly-reports/genesis-dao-proposal-report-3-january-2019.md)
   * [Genesis Alpha Proposal Report \#2 - December](reports/monthly-reports/genesis-alpha-proposal-report-2-december.md)
   * [Genesis Alpha Proposal Report \#1](reports/monthly-reports/genesis-alpha-proposal-report-1.md)
-* [Alerts](reports/alerts/README.md)
-  * [Alert Report 1 - 23rd October 2018](reports/alerts/alert-report-1-23rd-october-2018.md)
+* [Alerts](reports/alerts.md)
 * [More](reports/more/README.md)
   * [Templates meeting 27/2 notes](reports/more/templates-meeting-27-2-notes.md)
-
-## Resources
-
-* [GenDAO Resources List](resources/gendao-resources-list.md)
-* [Related](resources/related.md)
-* [Templates](resources/templates/README.md)
-  * [Workshop](https://docs.google.com/document/d/1Ldd9vSTaV4C8lQobDnKuZBcVp06eVUkmoImBniStqas/edit?usp=sharing)
-  * [Recurring Proposal / Working Group](https://docs.google.com/document/d/1_htpkwx0z-7PeGCf5vF-aBXM7OqW7QzV31cuk2oDyZk/edit?usp=sharing)
 
