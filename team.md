@@ -7,12 +7,12 @@
 Long time pollinator, Blockchain Ecology Researcher on multiple projects  
 @pedroparrachia 
 
-### Francesca Pick - Accountability Officer
+### Francesca Pick - Chief Accountability Officer
 
 Genesis Facilitator, Collaborative Governance Consultant  
 @franpick 
 
-### Dmitry Narozhny - Accountability Officer
+### Dmitry Narozhny - Chief Accountability Officer
 
 Active pollinator, member of the Kleros Justice Fellowship program  
 @dmitry2018uhlan 
