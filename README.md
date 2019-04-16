@@ -6,7 +6,7 @@ description: Here you can find everything about the ATF
 
 ## The ATF
 
-The Accountability Task-Force **\(ATF\)** is a recurring experiment around the Genesis Alpha DAO from DAOstack. A working group that has the objective of making Genesis more responsible and resilient. It documents and keeps track of what is happening in the Genesis DAO on a weekly basis, to ensure proposal accountability and flag any irregularities that need the attention of the members of DAO. This group intends to increasingly automate its' work and "decentralize" itself over time.
+The Accountability Task-Force **\(ATF\)** is a recurring experiment around the Genesis Alpha DAO from DAOstack. A working group that aims at making Genesis more responsible and resilient. It documents and keeps track of what is happening in the Genesis DAO on a weekly basis, to ensure proposal accountability and flag any irregularities that need the attention of the members of DAO. This group intends to increasingly automate and decentralize itself time.
 
 ## Rationale
 
