@@ -1,5 +1,7 @@
 # Flagging and certifying MVP
 
+[source](https://docs.google.com/document/d/11OBW8xY9a_h1s4Ktd-RDA6jPrRfdGim2JaAaqq1n3WY/edit?usp=sharing)
+
 The intention of this document is to propose an opt-out system, where every proposal is included unless disclosed otherwise. The opt-out system goal is to help proposers make themselves more accountable and working towards a better DAO, a better Genesis DAO Apha Program and maybe even a better Alchemy.
 
 Both system and document are on alpha stage “\*\*\*play at your own risk\*\*\*”
