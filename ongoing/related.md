@@ -1,5 +1,9 @@
 # Related
 
+## Pat's Proposal Ideas Data Dump
+
+{% file src="../.gitbook/assets/proposals-all-tasks-grouped.csv" caption="CSV file" %}
+
 ## Feature Wishlist Genesis Alpha Pilot
 
 {% embed url="https://docs.google.com/presentation/d/1aPlxbKr6IjNBqizF3ikUhMEt07ykqJYnEHt9pN27SpM/edit\#slide=id.p2" caption="" %}
